@@ -1,0 +1,14 @@
+body {
+	position: relative;
+}
+.header{
+	background-image: url('http://static1.squarespace.com/static/5a5fccd6e45a7c0ce208c18b/t/6128fc54d23c0c4c121adfd2/1630075996054/PlantShop_Altrincham_Oct2020_JodyHartley_LoRes-21.jpg?format=1500w');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+.col-md-6{
+background-color: #126740;
+}
