@@ -1,0 +1,28 @@
+.navbar {
+   
+    top: 0;
+    left: 0;
+    width: 100%; 
+    transition: 0.3s ease-out;
+    padding: 5px 0;
+    z-index: 999; 
+	padding-top: 10px;
+	padding-bottom: 10px;
+} 
+.checked {
+    color: orange;
+}
+.small-medium-large{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s{
+    margin-right: 20px;
+}
+.m{
+    margin-right: 20px;
+}
+.we-have{
+    margin-top: 5px;
+}
